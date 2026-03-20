@@ -1,0 +1,7 @@
+[2026-03-18 18:06:36] local.INFO: Admin logged in {"username":"admin","ip":"127.0.0.1"} 
+[2026-03-18 18:08:59] local.INFO: Admin action {"method":"DELETE","url":"http://127.0.0.1:8000/expenses/47","ip":"127.0.0.1","admin":"admin","status":302} 
+[2026-03-18 18:09:09] local.INFO: Admin action {"method":"DELETE","url":"http://127.0.0.1:8000/expenses/29","ip":"127.0.0.1","admin":"admin","status":302} 
+[2026-03-18 18:11:15] local.INFO: Admin action {"method":"PUT","url":"http://127.0.0.1:8000/budgets/1","ip":"127.0.0.1","admin":"admin","status":302} 
+[2026-03-18 18:12:44] local.INFO: Admin action {"method":"POST","url":"http://127.0.0.1:8000/categories","ip":"127.0.0.1","admin":"admin","status":302} 
+[2026-03-18 18:13:01] local.INFO: Admin action {"method":"PUT","url":"http://127.0.0.1:8000/categories/37","ip":"127.0.0.1","admin":"admin","status":302} 
+[2026-03-18 18:13:28] local.INFO: Admin action {"method":"DELETE","url":"http://127.0.0.1:8000/categories/37","ip":"127.0.0.1","admin":"admin","status":302} 
